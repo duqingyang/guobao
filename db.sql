@@ -49,3 +49,5 @@ CREATE TABLE `op_log`(
 	`log_txt` text NOT NULL COMMENT '日志',
 	PRIMARY KEY(`id`)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+ak="LTAImkIgtSQId69y"
